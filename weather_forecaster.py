@@ -3,10 +3,7 @@ from pprint import pprint
 from datetime import datetime
 from collections import OrderedDict
 
-# https://api.openweathermap.org/data/2.5/forecast?lat=44.34&lon=10.99&appid=4c480b60071836964c02cc59995f53c8
-# https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid=4c480b60071836964c02cc59995f53c8
-
-api_key = '4c480b60071836964c02cc59995f53c8'
+api_key = *******
 one_call_api = 'https://api.openweathermap.org/data/2.5/forecast'
 geocoding_api = 'https://api.openweathermap.org/data/2.5/weather'
 
